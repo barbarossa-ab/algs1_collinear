@@ -11,6 +11,8 @@ Programming Assignment 3: Pattern Recognition Assignment
 <p>
 <font color="green"><em>The APIs have been revised substantially for the Fall 2015 offering.</em></font>
 <br>
+<font color="red"><em>NOTE : I solved the old version of the assigment - the one with collinear points.</em></font>
+<br>
 
 </p><p>
 <br>
@@ -307,10 +309,6 @@ You may not call any library functions other those in
 <tt>java.lang</tt>, <tt>java.util</tt>, and <tt>algs4.jar</tt>.
 In particular, you may call <tt>Arrays.sort()</tt>.
 
-
-</p><address><small>
-This is the assignment text as of fall 2015; I solved it in 2014, so it probably differs from the one that I solved.
-<br>
 
 </p><address><small>
 This assignment was developed by Kevin Wayne.
